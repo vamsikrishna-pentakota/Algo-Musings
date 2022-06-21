@@ -1,3 +1,5 @@
+package faangprep.arrays;
+
 import java.util.HashMap;
 
 public class TournamentWinner{
